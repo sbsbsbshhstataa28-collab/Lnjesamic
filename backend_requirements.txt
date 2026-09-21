@@ -1,0 +1,4 @@
+telethon>=1.41.0
+pytgcalls>=2.2.12
+python-dotenv>=1.0.1
+websockets>=15.0
